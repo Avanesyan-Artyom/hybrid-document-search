@@ -1,0 +1,10 @@
+pandas==2.2.3
+numpy>=1.26,<3
+torch>=2.2
+sentence-transformers==3.2.0
+huggingface-hub==0.27.0
+bm25s==0.3.8
+rank-bm25==0.2.1
+faiss-cpu>=1.8,<2
+pyarrow>=14
+jupyter>=1.0
